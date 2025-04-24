@@ -1,4 +1,4 @@
-## Hello! I am Ana Beatriz Babiak 🤙🏼
+## Hello! I am Ana Beatriz 🤙🏼
 
 <!--[![Blog](https://img.shields.io/website?label=MeuPortifolio.com&style=for-the-badge&url=https://MeuPortifolio.com/)](https://MeuPortifolio.com)-->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anababiiak/)
