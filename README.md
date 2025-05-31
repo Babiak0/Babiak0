@@ -3,9 +3,9 @@
 <!--[![Blog](https://img.shields.io/website?label=MeuPortifolio.com&style=for-the-badge&url=https://MeuPortifolio.com/)](https://MeuPortifolio.com)-->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anababiiak/)
 
-![Brugge GitHub stats](https://github-readme-stats.vercel.app/api?username=Babiak0&show_icons=true&theme=dracula&count_private=true)
+![Babiak0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Babiak0&show_icons=true&theme=dracula&count_private=true)
 
-![Brugge GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Babiak0&theme=blue-green)
+![Babiak0 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Babiak0&theme=blue-green)
 
 
 
