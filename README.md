@@ -1,7 +1,7 @@
 # Olá! Eu sou Ana Beatriz Babiak
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Backend+Developer" />
 </div>
 
 ---
