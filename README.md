@@ -1,14 +1,14 @@
 # Olá! Eu sou Ana Beatriz Babiak
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=Backend+Developer" />
 </div>
 
 ---
 
 ## Sobre Mim
 
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em criar soluções robustas e escaláveis. Especializado em desenvolvimento web moderno com experiência em diversas tecnologias e frameworks.
+Desenvolvedora backend em aprendizado, apaixonada por tecnologia e inovação, com foco em criar soluções robustas e escaláveis
 
 <div align="center">
   
